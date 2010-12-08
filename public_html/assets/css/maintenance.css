@@ -1,0 +1,11 @@
+html { margin: 0; padding: 20px; color: #6e5342; text-align: center; }
+
+h1 { margin: 0 auto; padding: 0 0 15px 0; text-align: center; font-size:0; text-indent: -9999px; background: url('../img/note.gif') top center no-repeat; width: 269px; height: 254px; }
+
+p { margin: 0 0 1em 0; }
+a { color: #6e76c2; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+body { width: 580px; padding: 0; margin: 0 auto; font-size: 1.6em; }
+
+.contact { color: #000; font-size:.6em; padding: 10px 0 0 0; }
